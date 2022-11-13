@@ -334,6 +334,8 @@ string[] cars;
 
 cars = new string[] {"Volvo", "BMW", "Ford"};
 
+**return new int[]{i,j};
+
 **Loop Through a array**
 
 1. for loop
