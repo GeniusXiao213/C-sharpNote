@@ -2,4 +2,7 @@ Go back    Alt+<-
 Go farward    Alt+->
 Toggle Line Comment Ctrl+/
 Toggle Block Comment Shift+ Alt +A
-
+Extract method   hightlight->ctrl+r-> ctrl+ m 
+Import namespace  highlight-> ctrl+.
+public int MyProperty { get; set; }      prop->double tab
+duplicate line ctrl+c+v
